@@ -1,5 +1,5 @@
 #! /usr/bin/env node
-//SIMPLE CALCULATOR Or CLI CALCULATOR
+ //SIMPLE CALCULATOR Or CLI CALCULATOR
 
 import inquirer from "inquirer";
 
